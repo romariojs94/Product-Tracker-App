@@ -7,6 +7,7 @@ export default function Root() {
       <Text>Open up App.js to start working on your app!</Text>
       <Link href="/scanner" style={{
         color: 'blue',
+        fontSize: 20,
         marginTop: 20,
         textDecorationLine: 'underline',
 
