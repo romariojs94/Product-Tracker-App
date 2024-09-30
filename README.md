@@ -27,3 +27,8 @@ Agora, instale as dependências:
 ```http
 npm install
 ```
+
+#### Rode o Expo
+```
+https://docs.expo.dev/
+```
