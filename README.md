@@ -30,5 +30,6 @@ npm install
 
 #### Rode o Expo
 ```
-https://docs.expo.dev/
+  npx expo start
 ```
+https://docs.expo.dev/
